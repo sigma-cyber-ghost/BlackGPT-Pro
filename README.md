@@ -26,8 +26,8 @@ An advanced terminal-based AI interaction tool with Matrix-style effects, integr
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/sigma-cyber-ghost/BlackGPT_Pro.git
-cd BlackGPT_Pro
+git clone https://github.com/sigma-cyber-ghost/BlackGPT-Pro.git
+cd BlackGPT-Pro
 pip3 install requests rich pyfiglet
 python3 blackgpt_pro.py
 ```
