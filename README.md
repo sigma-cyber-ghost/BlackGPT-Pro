@@ -58,3 +58,6 @@ SIGMA ➤ How does this exploit bypass CORS restrictions?
 This tool is a weaponized interface forged for cybersecurity research, penetration testing, and digital warfare simulations. It is designed for Sigma Ghost operatives who understand the thin line between mastery and madness. Unauthorized use, reckless deployment, or illegal activities are entirely your responsibility. You wield this code at your own risk. Sigma Ghost Team claims zero accountability for any chaos, breaches, or consequences triggered by your actions.
 
 ⚔️ Hack with precision. Respect the craft. Own the fallout.
+
+## 🌐 Connect With Us
+[![Telegram](https://img.shields.io/badge/Telegram-Sigma_Ghost-blue?logo=telegram)](https://t.me/Sigma_Cyber_Ghost)  [![YouTube](https://img.shields.io/badge/YouTube-Sigma_Ghost-red?logo=youtube)](https://www.youtube.com/@sigma_ghost_hacking) [![Twitter](https://img.shields.io/badge/Twitter-@safderkhan0800_-1DA1F2?logo=twitter)](https://twitter.com/safderkhan0800_)
